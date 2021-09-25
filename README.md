@@ -6,7 +6,7 @@
 
 - 👩‍🎓 This is my second year at Raritan Valley Community College.
 - 💻 My major is Computer Programming.
-- In my spare time I like to read 📖, play games 🎮, watch tv 🎬, and do crafts 🧶.
+- In my spare time I like to read 📖, play games 🎮, watch tv 🎬, and do crafts 🧶
 
 ### Classes I've previously taken at RVCC.
 - Computer Concepts and Programming 
